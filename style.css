@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.Meme{
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    font-family:Libre Baskerville;
+    margin-top: 50px;
+}
+.Picture{
+    width: 100%;
+    border: 5px solid tan;
+}
+h1{
+    text-transform: capitalize;
+font-size: 3rem;
+}
